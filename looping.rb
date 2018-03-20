@@ -1,7 +1,7 @@
 def looping
 	#your code here
   loop do
-    puts 'I have found the time machine!'
+    puts 'Wingardium Leviosa'
   end
 end
 
